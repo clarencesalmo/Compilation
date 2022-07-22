@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" 
+href="family.html">
+
+<header>
+ 	<h1><center>SALMO FAMILY</center>
+</h1>
+	<a href="activity5.html"><img src="http://iconbug.com/download/size/128/icon/6329/small-home/"style="width:80px;height:80px;">
+</a>
+	<a href="activity5.html"><img src="https://www.pngfind.com/pngs/m/333-3339700_return-icon-orange-png-png-download-undo-png.png"
+style="width:90px;height:80px;"
+></a>
+
+</header>
+ 
+<body>
+	<center><a href="family.html"><img src="https://scontent.fmnl17-2.fna.fbcdn.net/v/t1.6435-9/191585565_114701940798217_8802720595072217178_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_
+nc_eui2=AeFKWAQRqPXliTiLPSAHnCOZ_qBziE2qekT-oHOITap6ROxSYGNDfJ3Q5hA4UVPnzW6UY3iWU7XTNE_7qOU_1k-u&_nc_ohc=1abbhTWmTmwAX8RxeNu&_nc_ht=scontent.fmnl17-2.fna&oh=00_AT-
+n6u7kwshTVQZTly4Gz8wZ3rDdQhotv44nbuCGAk4row&oe=62B2904A"p1"> 
+<b>This is my Father</b><br><br><i><p>Aldrin, 52 yrs old,He is my one and only supportive father to me.
+
+</p></i></div></center>
+
+	<center><a href="family.html"><img src="https://scontent.fmnl30-1.fna.fbcdn.net/v/t39.30808-6/280068245_969030730328809_1976931214738787987_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_
+nc_eui2=AeFqht4A2CuxvBNYFI_nLxS320ImI0QPgA3bQiYjRA-ADaMDYAsf22i3Lw3kdrUghY1W-x_HSqk38HIDGlGJfKxn&_nc_ohc=D-aQrMnEUl4AX_HwgsM&_nc_oc=AQlyUFn2H3Mf5QqaDoqglb1OB7OkpIfHkFLo5LdVY7dv6QbMxYRLMbOWe4eLBKiSCBc&_
+nc_ht=scontent.fmnl30-1.fna&oh=00_AT8k_DIXHnTRqUMPGzaWqMvutJIZ0UNAMGeqjyUyGH0gPQ&oe=628FE3B4"p1"> 
+<b></b><br><br><i><p>MY NAME IS CLARENCE, 21 yrs old, My hobby is the playing online games and basketball etc.
+
+</p></i></div></center>
+
+
+	<center><a href="family.html"><img src="https://scontent.fmnl30-1.fna.fbcdn.net/v/t39.30808-6/278538560_3199518217035064_8839528550775030093_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_
+nc_eui2=AeFFwpY7tBGfbeDGH6X4LpNN4wgZDJQiT-XjCBkMlCJP5evkHrOLF3D6gbPTTZr65RbTM95-ToVRdEWpUjUY1WFa&_nc_ohc=j3pWizFQNlEAX_OG4qM&tn=uczF-FBYwNAj7aMb&_nc_ht=scontent.
+fmnl30-1.fna&oh=00_AT9m1xr7-haX2-hl5GJ-9gYRi1dgeJ2YSj9wYEJ-Y4VUAg&oe=62915BDA"p1">
+<b>My girlfriend</b><br><br><i><p>lyka hega,This is my girlfriend,so beautiful for me,kind and loving.
+
+</p></i></div></center>
+
+	
+
+	
+</body>
+</html>

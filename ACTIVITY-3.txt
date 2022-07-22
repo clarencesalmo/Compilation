@@ -1,0 +1,97 @@
+<! DOCTYPE html>
+<head>
+<html><link rel="stylesheet" href="Activity3.html">
+<<style>
+    body {
+      background-image: url('background.webp');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 100% 100%;
+    }
+    h1:hover{background-color: red; transform: scale(1.2);}   
+    th:hover{background-color: red; transform: scale(1.2);}   
+    td:hover{background-color: yellow; transform: scale(1.2);}   
+
+
+    </style>
+</head>
+<header>
+    <h1><center>Activity2</center></h1>
+<a href="Activity3.html"><img src="next.jpg"style="width:90px;height:80px;"></a>
+</header>
+<center>
+<h1>My second Activity</h1>
+
+        <h2></h2>
+        <h5></h5>
+
+</center>
+
+<center>
+
+        <h2></h2>
+        <h5></h5>
+
+</center>
+
+<center>
+        <h2></h2>
+        <h5></h5>  
+</center>
+<center>
+        <h2></h2>
+        <h5></h5>
+
+</center>
+
+<center>
+        <h2></h2>
+        <h5></h5>
+
+</center>
+<body>
+<form>
+<center>
+    <table style="border: 1px solid black; width: 50%; margin-left: auto;
+    margin-right: auto; margin-top: 2rem;">
+        <tr>
+        <th rowspan="10" style="border: 1px solid black; color: #00eeff; font-size: 80px;">Search</th>
+          <th colspan="2" style="border: 1px solid black; color: #00eeff; font-size: 80px;">Browser</th>
+          <th style="border: 1px solid black; color: #00eeff; font-size: 25px;">Website</th>
+          <th style="border: 1px solid black; color: #00eeff; font-size: 25px;">Links</th>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black; color: #203239; color: #ff3232; font-size: 20px;">Chrome</td>
+            <td style="border: 1px solid black; color: #203239; color: #ff3232; font-size: 20px;">Firefox</td>
+            <td style="border: 1px solid black; color: #ff3232; font-size: 20px;">Facebook</td>
+            <td style="border: 1px solid black; color: #ff3232; font-size: 20px;"><a href="https://www.facebook.com/">https://www.facebook.com/</a></td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid black; color: #203239; color: #ff3232; font-size: 20px;">Chrome</td>
+            <td style="border: 1px solid black; color: #203239; color: #ff3232; font-size: 20px;">Firefox</td>
+            <td style="border: 1px solid black; color: #ff3232; font-size: 20px;">Google</td>
+            <td style="border: 1px solid black; color: #ff3232; font-size: 20px;"><a href="https://www.google.com.ph/">https://www.google.com.ph/</a></td>
+          </tr>
+          <tr>
+          <td style="border: 1px solid black; color: #203239; color: #ff3232; font-size: 20px;">Chrome</td>
+          <td style="border: 1px solid black; color: #203239; color: #ff3232; font-size: 20px;">Firefox</td>
+          <td style="border: 1px solid black; color: #ff3232; font-size: 20px;">Youtube</td>
+          <td style="border: 1px solid black; color: #ff3232; font-size: 20px;"><a href="https://m.youtube.com/">https://m.youtube.com/</a></td>
+          </tr>
+          <tr>
+          <td style="border: 1px solid black; color: #203239; color: #ff3232; font-size: 20px;">Chrome</td>
+          <td style="border: 1px solid black; color: #203239; color: #ff3232; font-size: 20px;">Firefox</td>
+          <td style="border: 1px solid black; color: #ff3232; font-size: 20px;">Discord</td>
+          <td style="border: 1px solid black; color: #ff3232; font-size: 20px;"><a href="https://discord.com/">https://discord.com/</a></td>
+          </tr>
+          <tr>
+          <td style="border: 1px solid black; color: #203239; color: #ff3232; font-size: 20px;">Chrome</td>
+          <td style="border: 1px solid black; color: #203239; color: #ff3232; font-size: 20px;">Firefox</td>
+          <td style="border: 1px solid black; color: #ff3232; font-size: 20px;">Gmail</td>
+          <td style="border: 1px solid black; color: #ff3232; font-size: 20px;"><a href="https://www.google.com/intl/fil/gmail/about/">https://www.google.com/intl/fil/gmail/about/</a></td>
+          </tr>
+</table>
+</form>
+</center>
+</body>
+</html>

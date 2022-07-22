@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<title>WEBPAGE</title>
+<link rel="stylesheet" href="act4.css">
+
+<head><h1><center>ACTIVITY #4</center></h1></head>
+<header>
+
+<a href="activity4.html"><img src="home1.png"style="width:80px;height:80px;"></a> 
+<a href="aboutx.html"><img src="menu1.png"style="width:80px;height:80px; ></a>
+
+<body>
+
+<center><a href="https://www.google.com/"target="_blank><img src="Google.jpg"syle="width:140px:height:140px;" ></a>div class="p1"><br><i><p>Download
+HQ PNG Google logo images, free google logo PNG pictures transparent PNG logos. that you can download to your computer and use in your designs.</p></i>
+</div></center>
+
+
+<center><a href="https://mail.google.com/"target="_blank"><img src="Gmail.png"style="width:140px;height;140px;" ></a>div class="p1"><i><p> Shopee is 
+south east asia and taiwan largest ecommerce platform. its a platform designed specially for the region thats makes online purchasing simple, secure, and
+quick thanks to robust payment and logistical assistance. </p></i></div></center>
+
+
+<center><a href="https://www.facebook.com/"target="_blank"><img src=" facebook.png"style="width:120px;height:120px;" ></a>div class="p1"><i><p> In 
+February 2004, havard University student chris hughes, andrew mcCollum, dustin moskovitz, eduardo saverin, and mark Zuckerberg founded facebook, a 
+social networking website. facebook was created as a way for university students to connect and share information though an online book of faces.
+</p></i></div></center>
+
+
+<center><a href="https://www.Youtube.com/"target="_blank"><img src=" facebook.png"style="width:120px;height:120px;" ></a>div class="p1"><i><p> 
+youtube is a vedio sharing service that allows users to watch videos posted bu other users and upload videos of their own. the service was started as an
+independent websites in 2005 and was acquired by google in 2006, videos that have been uploaded to youtube may appear on the youtube website and also be
+posted on other websites though the file. </p></i></div></center>
+
+
+<center><a href="https://www.Instagram.com/"target="_blank"><img src="Instagram.png"style="width:120px;height:120px;" ></a>div class="p1"><i><p> Lego
+system A/S uses "required cookies" to run this website. please note that "required cookies" will be set, as they are required for te site to function
+properly, but no</p></i></div></center>
+
+
+</body>
+</html>

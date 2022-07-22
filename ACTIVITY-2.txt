@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Second Activity</title>
+</head>
+<center>
+<style>
+table{
+
+	width: 50%;
+	height: 70px;
+	border: 2px;
+	background-color:#008000
+	border-bottom-style: solid;
+	border-bottom-color:#92a8d1;
+	box-shadow: 5px 10px;
+	border-spacing: 15px;
+	position: absolute;
+
+}
+h1{
+	font-size:20px;
+}
+th{
+font-family:Fantasy;
+text-align: center;
+font-size: 10px;
+}
+
+</style>
+
+<h1>FACEBOOK</h1>
+<p>Pinili ko ang facebook dahil mas mapapadali ako makipag communicate sa mga friends and family ko. Pwede mo gamitin ang Facebook sa pag o-online selling. Maaari mo rin dito ibahagi ang mga memories na pinagsasamahan niyong magkakaibigan o pamilya. Maaari ka rin dito makahanap ng online friends. Maaari ka rin dito mag basa ng mga news kung hindi ka nakakanood ng balita sa telebisyon. </body>
+
+<h2>INSTRAGRAM</h2>
+<p>Ang Instagram ay isang visual na platform upang matulungan kang bumuo ng isang mas personal na koneksyon sa mga customer. Katulad ng facebook pwede ka rin mag post ng mga pictures and videos. Pwede ka rin makipag communicate sa Instagram. Pwede ka rin dito mag promote ng mga product na iyong ibebenta. Isa ang Instagram sa may pinakamagandang filter quality. </body>
+
+
+<table style="border: 1px solid black; width: 50%; margin-left: auto;
+            margin-right: auto; margin-top: 2rem;">
+                <tr>
+                <th rowspan="6" style="border: 1px solid black; color: #051367; font-size: 25px;">Search</th>
+                  <th colspan="2" style="border: 1px solid black; color: #051367; font-size: 25px;">Browser</th>
+                  <th style="border: 1px solid black; color: #051367; font-size: 25px;">Website</th>
+                  <th style="border: 1px solid black; color: #051367; font-size: 25px;">Links</th>
+                </tr>
+                <tr>
+                    <td style="border: 1px solid black; color: #203239; color: #000000; font-size: 20px;">Chrome</td>
+                    <td style="border: 1px solid black; color: #203239; color: #000000; font-size: 20px;">Firefox</td>
+                    <td style="border: 1px solid black; color: #000000; font-size: 20px;">Facebook</td>
+                    <td style="border: 1px solid black; color: #B5FE83; font-size: 20px;"><a href="https://www.facebook.com/">https://www.facebook.com/</a></td>
+                  </tr>
+		    <td style="border: 1px solid black; color: #203239; color: #000000; font-size: 20px;">Chrome</td>
+                    <td style="border: 1px solid black; color: #203239; color: #000000; font-size: 20px;">Firefox</td>
+                    <td style="border: 1px solid black; color: #000000; font-size: 20px;">Instagram</td> 
+		    <td style="border: 1px solid black; color: #B5FE83; font-size: 20px;"><a href="https://https://www.instagram.com">https://www.instagram.com//</a></td>
+                  </tr>
+		    <td style="border: 1px solid black; color: #203239; color: #000000; font-size: 20px;">Chrome</td>
+                    <td style="border: 1px solid black; color: #203239; color: #000000; font-size: 20px;">Firefox</td>
+                    <td style="border: 1px solid black; color: #000000; font-size: 20px;">Pinterest</td> 
+		    <td style="border: 1px solid black; color: #B5FE83; font-size: 20px;"><a href="https://https://www.pinterest.com">https://www.pinterest.com//</a></td>
+                  </tr>
+		    <td style="border: 1px solid black; color: #203239; color: #000000; font-size: 20px;">Chrome</td>
+                    <td style="border: 1px solid black; color: #203239; color: #000000; font-size: 20px;">Firefox</td>
+                    <td style="border: 1px solid black; color: #000000; font-size: 20px;">Youtube</td> 
+		    <td style="border: 1px solid black; color: #B5FE83; font-size:
+		   </tr>
+
+</table>
+</form>
+</center>
+</body>
+</html>
